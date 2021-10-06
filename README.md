@@ -4,4 +4,5 @@ Awesome card effect using HTML &amp; CSS
 <b>Compatible All Devices</b>
 <hr>
 Live Demo : <a href="https://affectionate-spence-a1fac1.netlify.app/" target="_blank" > Click Here </a>
-https://hemant-bhat.github.io/card-hover-effect/
+Live Demo : <a href="https://hemant-bhat.github.io/card-hover-effect/" target="_blank" > Click Here </a>
+
